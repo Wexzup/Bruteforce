@@ -10,7 +10,7 @@ after download:
 - open BruteForce.py
 - type the length of the password
 - type the characters (abcde...789) work with letters, numbers and symbols
-- type the ip adress of your wifi
+- type the ip address of your wifi
 - and the name of the user
 - and now it's gonna probably start all combinasons and stop if he find the pw
   
