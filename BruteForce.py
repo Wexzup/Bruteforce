@@ -4,7 +4,7 @@ import subprocess
 
 
 lengthA = int(input("What is the length of the password? : "))
-Mode = input("What is mode for the characters (1,2,3)")
+Mode = input("What is mode for the characters (1,2,3) : ")
 if int(Mode) == 1 :
     Characters = input("What is the characters used for the password? : ")
 elif int(Mode) == 2 :
