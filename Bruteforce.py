@@ -5,7 +5,7 @@ import subprocess
 ascii_skull = """
               ______
            .-        -.                      THIS BRUTE FORCE IS FOR EDUCATIONAL PURPOSES ONLY, I AM NOT LEGALLY 
-          /            \\                    RESPONSIBLE FOR ANY ACTIONS CARRIED OUT BY MY SOFTWARE. USE IT AT 
+          /            \\                     RESPONSIBLE FOR ANY ACTIONS CARRIED OUT BY MY SOFTWARE. USE IT AT 
          |,  .-.  .-.  ,|                    YOUR OWN RISK
         | )(___/  \___)( |                   
         | /     /\     \ |                   
