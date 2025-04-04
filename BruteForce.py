@@ -2,6 +2,21 @@ import itertools
 import time
 import subprocess
 
+ascii_skull = """
+      ______
+   .-        -.
+  /            \\
+ |,  .-.  .-.  ,|
+ | )(_o/  \o_)( |
+ |/     /\     \|
+ (_     ^^     _)
+  \__|IIIIII|__/
+   | \IIIIII/ |
+   \          /
+    `--------`
+"""
+
+print(ascii_skull)
 
 lengthA = int(input("What is the length of the password? : "))
 Mode = input("What is mode for the characters (1,2,3) : ")
