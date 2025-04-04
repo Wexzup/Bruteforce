@@ -4,7 +4,7 @@ import subprocess
 
 ascii_skull = """
               ______
-           .-        -.
+           .-        -.                      THIS BRUTE FORCE IS FOR EDUCATIONAL PURPOSES ONLY, 
           /            \\
          |,  .-.  .-.  ,|
         | )(___/  \___)( |
