@@ -4,16 +4,16 @@ import subprocess
 
 ascii_skull = """
               ______
-           .-        -.                      THIS BRUTE FORCE IS FOR EDUCATIONAL PURPOSES ONLY, 
-          /            \\
+           .-        -.                      THIS BRUTE FORCE IS FOR EDUCATIONAL PURPOSES ONLY, I AM NOT LEGALLY RESPONSIBLE FOR ANY ACTIONS 
+          /            \\                    CARRIED OUT BY MY SOFTWARE. USE IT AT YOUR OWN RISK
          |,  .-.  .-.  ,|
-        | )(___/  \___)( |
-        | /     /\     \ |
-         (_     ^^     _)
-          \__|IIIIII|__/
-           | \IIIIII/ |
+        | )(___/  \___)( |                   ⬛⬛   ⬛⬛⬛   ⬛   ⬛  ⬛⬛⬛  ⬛⬛⬛         ⬛⬛⬛  ⬛⬛⬛   ⬛⬛⬛   ⬛⬛⬛  ⬛⬛⬛
+        | /     /\     \ |                   ⬛  ⬛ ⬛  ⬛   ⬛    ⬛    ⬛     ⬛              ⬛       ⬛   ⬛  ⬛  ⬛   ⬛        ⬛
+         (_     ^^     _)                    ⬛ ⬛  ⬛⬛⬛   ⬛   ⬛     ⬛    ⬛⬛            ⬛⬛    ⬛    ⬛  ⬛⬛⬛  ⬛        ⬛⬛
+          \__|IIIIII|__/                     ⬛  ⬛ ⬛ ⬛    ⬛    ⬛    ⬛     ⬛              ⬛       ⬛   ⬛  ⬛ ⬛    ⬛        ⬛
+           | \IIIIII/ |                      ⬛⬛   ⬛   ⬛    ⬛⬛      ⬛     ⬛⬛⬛         ⬛       ⬛⬛⬛   ⬛   ⬛  ⬛⬛⬛  ⬛⬛⬛
            \          /
-            `--------`
+            `--------`                       MADE BY WEXZUP
 """
 
 print(ascii_skull)
